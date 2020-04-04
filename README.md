@@ -1,4 +1,4 @@
 # The-Last-Stand
-Jeu de style rogue-like/gestion dans un univers fantaisiste réalisé au sein d'une équipe de 7 developpeurs
+Jeu de style rogue-like/gestion dans un univers fantaisiste réalisé au sein d'une équipe de 7 développeurs
 
-en crous de developpement
+en cours de developpement
